@@ -1,0 +1,50 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body {
+	background-image: url(bride.png);
+	background-size: cover;
+}
+
+.profile{
+	width: 400px;
+	height: 500px;
+	background: rgba(0, 0, 0, 0.7);
+	margin: 30px auto;
+}
+
+.profile img{
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin-left: 150px;
+	margin-top: 20px;
+}
+
+.profile h1{
+	text-align: center;
+	color: snow;
+	font-weight: bold;
+	margin-top: 10px;
+	font-size: 25px;
+}
+
+.profile h2{
+	color: snow;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.profile p{
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	font-weight: inherit;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
